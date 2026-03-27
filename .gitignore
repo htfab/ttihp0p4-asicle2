@@ -1,3 +1,5 @@
+*~
+*.swp
 .DS_Store
 .idea
 *.vcd
@@ -11,3 +13,12 @@ test/sim_build
 test/__pycache__/
 test/results.xml
 test/gate_level_netlist.v
+datasheet.pdf
+*.typ
+.f4cache
+*.bit
+fpga/*/build
+fpga/*/_build
+usage_statistics_*
+test/output/
+tt/
